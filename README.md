@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aisling 👋
 
-<!--
-**aisling06/aisling06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior studying Computer Science at Macalester College, interested in the intersection of human behavior, AI, design, and creative technology.
 
-Here are some ideas to get you started:
+I enjoy turning everyday curiosities into real products, exploring how AI can help people build, learn, and interact with technology in more meaningful ways.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Exploring
+- Human-Centered AI & Human-AI Interaction
+- AI Agents and AI-Assisted Development
+- UI/UX and Product Development
+- Creative Technology
+
+## 🚀 Selected Projects
+| Project | Description |
+| --- | --- |
+| NutriLens | AI-powered nutrition assistant with personalized recommendations |
+| Kairos | Real-time dating app built collaboratively at Macathon |
+| Fashion Platform | Personalized fashion and styling platform (in progress) |
+
+## 🛠 Technical Skills
+Python · Java · C · R · React · FastAPI · MySQL · Git/GitHub
+
+## 🌱 Beyond Coding
+Human-AI Interaction Research · Technical Community Building · Photography · Fashion · Music · Snowboarding
+
+Always curious, always building ✨
